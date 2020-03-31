@@ -1,0 +1,3 @@
+[submodule "submodel"]
+	path = submodel
+	url = git@github.com:xzp3094997376/submodel.git
